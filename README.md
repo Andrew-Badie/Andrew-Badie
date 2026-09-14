@@ -9,7 +9,10 @@ I also enjoy building practical automation and software projects outside of work
 ## Featured Projects
 
 ### [Event Calendar Automation](https://github.com/Andrew-Badie/event-calendar-automation)
-Python automation that synchronizes CCB/Pushpay event data with Google Calendar using the Google Calendar API, OAuth 2.0, recurrence parsing, event reconciliation, and GitHub Actions.
+Python integration between CCB/Pushpay and Google Calendar using OAuth 2.0, XML parsing, recurrence conversion, and source-ID matching. The public repository is sanitized; the original scheduled deployment uses private configuration.
+
+### [Appointment Booking System](https://github.com/Andrew-Badie/appointment-booking-system)
+Java coursework with a JSP/Servlet frontend, search, booking, confirmation, three MySQL databases, and KubeMQ messaging. Originally deployed with Docker and Kubernetes; later recovered with source-built Compose, CI, integration checks, and UI/functional fixes developed with AI assistance. The README separates original coursework from follow-up work and documents demo limitations.
 
 ### [GPP3O Course Website](https://github.com/Andrew-Badie/GPP3O_Course_Website)
 JavaScript, HTML, and CSS website built for an Ontario Grade 11 Leadership and Peer Support course and used by a class of 15 students. Includes course resources, a calendar, and an interactive leadership quiz.
@@ -26,7 +29,7 @@ JavaFX desktop application demonstrating object-oriented design, manager/custome
 
 ## What I'm Interested In
 
-I'm interested in new-grad software engineering opportunities in backend development, mobile development, distributed systems, and general software engineering.
+I'm seeking new-grad software engineering opportunities in Canada, particularly Android/mobile, backend, and general software development.
 
 ## Connect
 
