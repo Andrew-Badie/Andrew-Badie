@@ -12,13 +12,13 @@ I also enjoy building practical automation and software projects outside of work
 Python integration between CCB/Pushpay and Google Calendar using OAuth 2.0, XML parsing, recurrence conversion, and source-ID matching. The public repository is sanitized; the original scheduled deployment uses private configuration.
 
 ### [Appointment Booking System](https://github.com/Andrew-Badie/appointment-booking-system)
-Java coursework with a JSP/Servlet frontend, search, booking, confirmation, three MySQL databases, and KubeMQ messaging. Originally deployed with Docker and Kubernetes; later recovered with source-built Compose, CI, integration checks, and UI/functional fixes developed with AI assistance. The README separates original coursework from follow-up work and documents demo limitations.
+Java coursework with a JSP/Servlet frontend, search, booking, confirmation, three MySQL databases, and KubeMQ messaging. Originally deployed with Docker and Kubernetes; the public repository now includes a source-built Compose environment, CI, and integration checks while preserving the original course implementation and documenting later recovery work separately.
 
 ### [GPP3O Course Website](https://github.com/Andrew-Badie/GPP3O_Course_Website)
-JavaScript, HTML, and CSS website built for an Ontario Grade 11 Leadership and Peer Support course and used by a class of 15 students. Includes course resources, a calendar, and an interactive leadership quiz.
+JavaScript, HTML, and CSS website delivered for an Ontario Grade 11 Leadership and Peer Support course and used by a class of 15 students. Includes course resources, a calendar, and an interactive leadership quiz.
 
 ### [Dragon Repeller RPG](https://github.com/Andrew-Badie/Dragon-Repeller-RPG)
-Browser-based JavaScript RPG with turn-based combat, enemy encounters, inventory and weapon upgrades, health management, and XP/gold progression.
+JavaScript learning project based on freeCodeCamp's RPG curriculum, featuring turn-based combat, enemy encounters, inventory and weapon upgrades, health management, and XP/gold progression.
 
 ### [Object-Oriented Bank Application](https://github.com/Andrew-Badie/Object_Oriented_Bank_Application)
 JavaFX desktop application demonstrating object-oriented design, manager/customer roles, account operations, transaction rules, and file-based persistence.
