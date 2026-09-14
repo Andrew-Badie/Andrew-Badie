@@ -17,6 +17,9 @@ Java coursework with a JSP/Servlet frontend, search, booking, confirmation, thre
 ### [GPP3O Course Website](https://github.com/Andrew-Badie/GPP3O_Course_Website)
 JavaScript, HTML, and CSS website built for an Ontario Grade 11 Leadership and Peer Support course and used by a class of 15 students. Includes course resources, a calendar, and an interactive leadership quiz.
 
+### [Dragon Repeller RPG](https://github.com/Andrew-Badie/Dragon-Repeller-RPG)
+Browser-based JavaScript RPG with turn-based combat, enemy encounters, inventory and weapon upgrades, health management, and XP/gold progression.
+
 ### [Object-Oriented Bank Application](https://github.com/Andrew-Badie/Object_Oriented_Bank_Application)
 JavaFX desktop application demonstrating object-oriented design, manager/customer roles, account operations, transaction rules, and file-based persistence.
 
